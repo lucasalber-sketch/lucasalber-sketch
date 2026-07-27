@@ -1,11 +1,11 @@
-# 👩🏻‍💻 Lisieux Fernandez
+# LUCAS ALBER
  
-*formada em Ciência de Dados e atualmente Técnica em Dados, com foco em transformar informações complexas em insights estratégicos. Graduanda em Análise e Desenvolvimento de Sistemas (ADS) para consolidar conhecimentos em arquitetura de software e construção de soluções tecnológicas eficientes. Minha atuação une o rigor analítico dos dados com a visão estrutural do desenvolvimento de sistemas.*
+*Desenvolvedor focado em engenharia de software, construção de arquiteturas de código escaláveis, integração de APIs e automação de processos de ponta a ponta. Atuo garantindo performance, estabilidade e segurança das aplicações e infraestrutura. Também sou cofundador da Neurohub, empresa focada em desenvolvimento de soluções tecnológicas, automação, Business Intelligence e impressão 3D.*
  
  
 ---
  
-### 🤖 Linguagens e Tecnologias
+### Full Stack | Arquitetura & Automações | Co-founder Neurohub - Technology
  
 <img 
     align="left" 
