@@ -20,27 +20,24 @@ Development • Full Stack • IA <span style="color: #58A6FF;">_</span>
 <!-- Descrição -->
 <p style="color: #8B949E; font-size: 15px; line-height: 1.6; font-family: sans-serif; max-width: 600px;">
 Formado em Ciência de Dados e graduando em Ciência da Computação.<br>
-Sou cofundador da Neurohub e atuo na construção da  base técnica, UI/UX e as automações que garantem o funcionamento ágil de toda a plataforma,
+Sou cofundador da Neurohub e atuo na construção da base técnica, UI/UX e as automações que garantem o funcionamento ágil de toda a plataforma,
 desenvolvendo soluções em dados, software e tecnologia.<br>
 </p>
 
 <br>
 
 <!-- Redes Sociais (estilo dark) -->
-<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/">
-<img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=31A8FF&color=0D1117&labelColor=0D1117" alt="LinkedIn">
-</a>&nbsp;
-<a href="https://www.instagram.com/alber.nunes_/">
-<img src="https://img.shields.io/badge/Instagram-@alber.nunes__-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C&color=0D1117&labelColor=0D1117" alt="Instagram">
-</a>&nbsp;
-<a href="https://wa.me/5567996483274">
-<img src="https://img.shields.io/badge/WhatsApp-Conversar-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=0D1117&labelColor=0D1117" alt="WhatsApp">
-</a>
+<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=31A8FF&color=0D1117&labelColor=0D1117" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.instagram.com/alber.nunes_/"><img src="https://img.shields.io/badge/Instagram-@alber.nunes__-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C&color=0D1117&labelColor=0D1117" alt="Instagram"></a>&nbsp;
+<a href="https://wa.me/5567996483274"><img src="https://img.shields.io/badge/WhatsApp-Conversar-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=0D1117&labelColor=0D1117" alt="WhatsApp"></a>
 </td>
 
 <!-- Coluna do Grafismo -->
 <td width="30%" align="center" valign="middle" style="border: none;">
-  <img src="./folder_black.png" width="100%" style="max-width: 150px; border-radius: 30px; object-fit: cover;" alt="img_folder">
+<img src="./folder_black.png" width="100%" style="max-width: 150px; border-radius: 30px; object-fit: cover;" alt="img_folder">
+<br><br>
+<!-- Botão da Neurohub com a imagem solicitada -->
+<a href="https://neurohub.dev.br"><img src="./image_8bab25.png" width="120" style="border-radius: 6px; border: 1px solid #30363D;" alt="Botão NeuroHub"></a>
 </td>
 </tr>
 </table>
@@ -94,10 +91,14 @@ desenvolvendo soluções em dados, software e tecnologia.<br>
 <hr style="border-color: #30363D;">
 <br>
 
+<!-- SEÇÃO ATUALMENTE -->
 <h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase;">
-<span style="color: #58A6FF;">>_</span> GitHub Stats
+<span style="color: #58A6FF;">🚀</span> Atualmente
 </h3>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lucasalber-sketch&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&bg_color=0D1117&hide_border=true&hide_title=true" alt="GitHub Stats">
-</div>
+<p style="color: #8B949E; font-size: 15px; line-height: 1.8; font-family: sans-serif;">
+- Desenvolvimento Web e Mobile<br>
+- Automações<br>
+- Projetos da Neurohub<br> 
+- Análise de dados
+</p>
