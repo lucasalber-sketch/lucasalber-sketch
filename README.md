@@ -4,7 +4,7 @@
 <!-- Coluna de Texto -->
 <td width="70%" valign="top" style="border: none;">
 <p style="font-family: monospace; color: #8B949E; font-size: 13px; text-transform: uppercase;">
-Seja bem-vindo(a) ao meu perfil <span style="color: #2EA043;">>_</span>
+Seja bem-vindo(a) <span style="color: #2EA043;">>_</span>
 </p>
 
 <!-- Nome com Animação -->
