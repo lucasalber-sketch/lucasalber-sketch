@@ -43,12 +43,10 @@ Sou cofundador da Neurohub e atuo na construção da base técnica, UI/UX e as a
 </tr>
 </table>
 
-<br><br>
+<br>
+<hr style="border-color: #30363D;">
+<br>
 
-<!-- SEÇÃO DE TECNOLOGIAS -->
-<h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase; border-bottom: none;">
-<span style="color: #58A6FF;">&lt;/&gt;</span> Ferramentas e tecnologias
-</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" alt="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,18 +59,14 @@ Sou cofundador da Neurohub e atuo na construção da base técnica, UI/UX e as a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" alt="GitHub" style="filter: invert(1);">
 </div>
 
-<br>
-<hr style="border-color: #30363D;">
-<br>
-
 <!-- SEÇÃO ATUALMENTE -->
 <h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase;">
-<span style="color: #58A6FF;">🚀</span> Atualmente
+<span style="color: #58A6FF;">🧠</span> Atualmente
 </h3>
 
-<p style="color: #8B949E; font-size: 15px; line-height: 1.8; font-family: sans-serif;">
-- Desenvolvimento Web e Mobile<br>
-- Automações<br>
-- Projetos da Neurohub<br> 
-- Análise de dados
+<p style="color: #8B949E; font-size: 15px; line-height: 2.2; font-family: sans-serif; margin-top: 8px;">
+&nbsp;&nbsp;[ / ]&nbsp;&nbsp;Desenvolvimento Web e Mobile<br>
+&nbsp;&nbsp;[ &gt; ]&nbsp;&nbsp;Automações<br>
+&nbsp;&nbsp;[ # ]&nbsp;&nbsp;Projetos da <span style="color: #FFFFFF; font-weight: 500;">Neurohub</span><br>
+&nbsp;&nbsp;[ % ]&nbsp;&nbsp;Análise de Dados
 </p>
