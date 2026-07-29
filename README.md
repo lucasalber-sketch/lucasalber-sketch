@@ -26,18 +26,21 @@ desenvolvendo soluções em dados, software e tecnologia.<br>
 
 <br>
 
-<!-- Redes Sociais (estilo dark) -->
-<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=31A8FF&color=0D1117&labelColor=0D1117" alt="LinkedIn"></a>&nbsp;
-<a href="https://www.instagram.com/alber.nunes_/"><img src="https://img.shields.io/badge/Instagram-@alber.nunes__-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C&color=0D1117&labelColor=0D1117" alt="Instagram"></a>&nbsp;
-<a href="https://wa.me/5567996483274"><img src="https://img.shields.io/badge/WhatsApp-Conversar-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=0D1117&labelColor=0D1117" alt="WhatsApp"></a>
+<!-- Redes Sociais (estilo dark monocromático) -->
+<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0D1117" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/alber.nunes_/"><img src="https://img.shields.io/badge/Instagram-@alber.nunes__-0D1117?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=0D1117" alt="Instagram"></a>&nbsp;
+<a href="https://wa.me/5567996483274"><img src="https://img.shields.io/badge/WhatsApp-Conversar-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=0D1117" alt="WhatsApp"></a>
 </td>
 
 <!-- Coluna do Grafismo -->
 <td width="30%" align="center" valign="middle" style="border: none;">
 <img src="./folder_black.png" width="100%" style="max-width: 150px; border-radius: 30px; object-fit: cover;" alt="img_folder">
 <br><br>
+  
 <!-- Botão da Neurohub com a imagem solicitada -->
-<a href="https://neurohub.dev.br"><img src="./image_8bab25.png" width="120" style="border-radius: 6px; border: 1px solid #30363D;" alt="Botão NeuroHub"></a>
+<a href="https://neurohub.dev.br">
+<img src="./ver.svg" alt="Botão Ver">
+</a>
 </td>
 </tr>
 </table>
