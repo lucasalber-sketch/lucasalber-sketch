@@ -9,7 +9,7 @@ Seja bem-vindo(a) ao meu perfil <span style="color: #2EA043;">>_</span>
 
 <!-- Nome com Animação -->
 <h1 style="margin-bottom: 0; border-bottom: none;">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Lucas+Alber+Nunes+Fernandes|" alt="Lucas Alber Nunes Fernandes">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Lucas+A.+Nunes+Fernandes|" alt="Lucas Alber Nunes Fernandes">
 </h1>
 
 <!-- Subtítulo -->
