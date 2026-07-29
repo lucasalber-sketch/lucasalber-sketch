@@ -25,11 +25,12 @@ Sou cofundador da Neurohub e atuo na construção da base técnica, UI/UX e as a
 
 <br>
 
-<!-- Redes Sociais (estilo dark monocromático) -->
-<!-- Redes Sociais -->
-<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0D1117&v=1" alt="LinkedIn"></a>&nbsp;
-<a href="https://www.instagram.com/alber.nunes_/"><img src="https://img.shields.io/badge/Instagram-@alber.nunes__-0D1117?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=0D1117" alt="Instagram"></a>&nbsp;
-<a href="https://wa.me/5567996483274"><img src="https://img.shields.io/badge/WhatsApp-Conversar-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=0D1117" alt="WhatsApp"></a>
+<!-- Redes Sociais (Empilhadas e Monocromáticas) -->
+<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="./linkedin-svg.svg" alt="LinkedIn"></a>
+<br><br>
+<a href="https://www.instagram.com/alber.nunes_/"><img src="./instagram-svg.svg" alt="Instagram"></a>
+<br><br>
+<a href="https://wa.me/5567996483274"><img src="./wpp-svg.svg" alt="WhatsApp"></a>
 
 <!-- Coluna do Grafismo -->
 <td width="30%" align="center" valign="middle" style="border: none;">
