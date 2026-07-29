@@ -27,9 +27,7 @@ Sou cofundador da Neurohub e atuo na construção da base técnica, UI/UX e as a
 
 <!-- Redes Sociais (Empilhadas e Monocromáticas) -->
 <a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="./linkedin-svg.svg" alt="LinkedIn"></a>
-<br><br>
 <a href="https://www.instagram.com/alber.nunes_/"><img src="./instagram-svg.svg" alt="Instagram"></a>
-<br><br>
 <a href="https://wa.me/5567996483274"><img src="./wpp-svg.svg" alt="WhatsApp"></a>
 
 <!-- Coluna do Grafismo -->
