@@ -20,17 +20,16 @@ Development • Full Stack • IA <span style="color: #58A6FF;">_</span>
 <!-- Descrição -->
 <p style="color: #8B949E; font-size: 15px; line-height: 1.6; font-family: sans-serif; max-width: 600px;">
 Formado em Ciência de Dados e graduando em Ciência da Computação.<br>
-Sou cofundador da Neurohub e atuo na construção da base técnica, UI/UX e as automações que garantem o funcionamento ágil de toda a plataforma,
-desenvolvendo soluções em dados, software e tecnologia.<br>
+Sou cofundador da Neurohub e atuo na construção da base técnica, UI/UX e as automações que garantem o funcionamento ágil de toda a plataforma, desenvolvendo soluções em dados, software e tecnologia.<br>
 </p>
 
 <br>
 
 <!-- Redes Sociais (estilo dark monocromático) -->
-<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0D1117" alt="LinkedIn"></a>
+<!-- Redes Sociais -->
+<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/"><img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=0D1117&v=1" alt="LinkedIn"></a>&nbsp;
 <a href="https://www.instagram.com/alber.nunes_/"><img src="https://img.shields.io/badge/Instagram-@alber.nunes__-0D1117?style=for-the-badge&logo=instagram&logoColor=white&color=0D1117&labelColor=0D1117" alt="Instagram"></a>&nbsp;
 <a href="https://wa.me/5567996483274"><img src="https://img.shields.io/badge/WhatsApp-Conversar-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white&color=0D1117&labelColor=0D1117" alt="WhatsApp"></a>
-</td>
 
 <!-- Coluna do Grafismo -->
 <td width="30%" align="center" valign="middle" style="border: none;">
@@ -52,43 +51,16 @@ desenvolvendo soluções em dados, software e tecnologia.<br>
 <span style="color: #58A6FF;">&lt;/&gt;</span> Ferramentas e tecnologias
 </h3>
 
-<table style="border-collapse: separate; border-spacing: 12px; border: none;">
-<tr align="center">
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">HTML</span>
-</td>
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">CSS</span>
-</td>
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">JavaScript</span>
-</td>
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">Git</span>
-</td>
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">Python</span>
-</td>
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">SQL</span>
-</td>
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">VS Code</span>
-</td>
-<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<!-- Para o GitHub usar o ícone branco no fundo escuro -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="filter: invert(1);"><br><br>
-<span style="color: #8B949E; font-family: monospace; font-size: 12px;">GitHub</span>
-</td>
-</tr>
-</table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" alt="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" alt="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="SQL" alt="SQL">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code" alt="VS Code">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" alt="GitHub" style="filter: invert(1);">
+</div>
 
 <br>
 <hr style="border-color: #30363D;">
