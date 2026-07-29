@@ -38,9 +38,9 @@ desenvolvendo soluções em dados, software e tecnologia.<br>
 </a>
 </td>
 
-<!-- Coluna do Grafismo (Cubo SVG) -->
+<!-- Coluna do Grafismo -->
 <td width="30%" align="center" valign="middle" style="border: none;">
-<img src="./cubo.svg" width="150" alt="Cubo Tech">
+  <img src="./folder_black.png" width="100%" style="max-width: 150px; border-radius: 30px; object-fit: cover;" alt="img_folder">
 </td>
 </tr>
 </table>
@@ -49,7 +49,7 @@ desenvolvendo soluções em dados, software e tecnologia.<br>
 
 <!-- SEÇÃO DE TECNOLOGIAS -->
 <h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase; border-bottom: none;">
-<span style="color: #58A6FF;">&lt;/&gt;</span> Ferramentas e Tecnologias
+<span style="color: #58A6FF;">&lt;/&gt;</span> Ferramentas e tecnologias
 </h3>
 
 <table style="border-collapse: separate; border-spacing: 12px; border: none;">
@@ -99,5 +99,5 @@ desenvolvendo soluções em dados, software e tecnologia.<br>
 </h3>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&bg_color=0D1117&hide_border=true&hide_title=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=lucasalber-sketch&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&bg_color=0D1117&hide_border=true&hide_title=true" alt="GitHub Stats">
 </div>
