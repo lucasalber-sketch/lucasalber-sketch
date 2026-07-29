@@ -1,58 +1,103 @@
-# LUCAS ALBER
- 
-*Desenvolvedor focado em engenharia de software, construção de arquiteturas de código escaláveis, integração de APIs e automação de processos de ponta a ponta. Atuo garantindo performance, estabilidade e segurança das aplicações e infraestrutura. Também sou cofundador da Neurohub, empresa focada em desenvolvimento de soluções tecnológicas, automação, Business Intelligence e impressão 3D.*
- 
- 
----
- 
-### Full Stack | Arquitetura & Automações | Co-founder Neurohub - Technology
- 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
- 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg%22"
-/>
+<!-- CABEÇALHO E BIO -->
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr>
+<!-- Coluna de Texto -->
+<td width="70%" valign="top" style="border: none;">
+<p style="font-family: monospace; color: #8B949E; font-size: 13px; text-transform: uppercase;">
+Seja bem-vindo(a) ao meu perfil <span style="color: #2EA043;">>_</span>
+</p>
+
+<!-- Nome com Animação -->
+<h1 style="margin-bottom: 0; border-bottom: none;">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Lucas+Alber+Nunes+Fernandes|" alt="Lucas Alber Nunes Fernandes">
+</h1>
+
+<!-- Subtítulo -->
+<h3 style="font-family: monospace; color: #58A6FF; font-weight: normal; margin-top: 0px;">
+Development • Full Stack • IA <span style="color: #58A6FF;">_</span>
+</h3>
+
+<!-- Descrição -->
+<p style="color: #8B949E; font-size: 15px; line-height: 1.6; font-family: sans-serif; max-width: 600px;">
+Formado em Ciência de Dados e graduando em Ciência da Computação.<br>
+Sou cofundador da Neurohub e atuo na construção da  base técnica, UI/UX e as automações que garantem o funcionamento ágil de toda a plataforma,
+desenvolvendo soluções em dados, software e tecnologia.<br>
+</p>
+
+<br>
+
+<!-- Redes Sociais (estilo dark) -->
+<a href="https://www.linkedin.com/in/lucas-alber-45a6bb1a5/">
+<img src="https://img.shields.io/badge/LinkedIn-lucas--alber-0D1117?style=for-the-badge&logo=linkedin&logoColor=31A8FF&color=0D1117&labelColor=0D1117" alt="LinkedIn">
+</a>&nbsp;
+<a href="https://www.instagram.com/alber.nunes_/">
+<img src="https://img.shields.io/badge/Instagram-@alber.nunes__-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C&color=0D1117&labelColor=0D1117" alt="Instagram">
+</a>&nbsp;
+<a href="https://wa.me/5567996483274">
+<img src="https://img.shields.io/badge/WhatsApp-Conversar-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=0D1117&labelColor=0D1117" alt="WhatsApp">
+</a>
+</td>
+
+<!-- Coluna do Grafismo (Cubo SVG) -->
+<td width="30%" align="center" valign="middle" style="border: none;">
+<img src="./cubo.svg" width="150" alt="Cubo Tech">
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- SEÇÃO DE TECNOLOGIAS -->
+<h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase; border-bottom: none;">
+<span style="color: #58A6FF;">&lt;/&gt;</span> Ferramentas e Tecnologias
+</h3>
+
+<table style="border-collapse: separate; border-spacing: 12px; border: none;">
+<tr align="center">
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">HTML</span>
+</td>
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">CSS</span>
+</td>
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">JavaScript</span>
+</td>
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">Git</span>
+</td>
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">Python</span>
+</td>
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">SQL</span>
+</td>
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">VS Code</span>
+</td>
+<td width="90" height="100" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
+<!-- Para o GitHub usar o ícone branco no fundo escuro -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="filter: invert(1);"><br><br>
+<span style="color: #8B949E; font-family: monospace; font-size: 12px;">GitHub</span>
+</td>
+</tr>
+</table>
+
+<br>
+<hr style="border-color: #30363D;">
+<br>
+
+<h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase;">
+<span style="color: #58A6FF;">>_</span> GitHub Stats
+</h3>
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&bg_color=0D1117&hide_border=true&hide_title=true" alt="GitHub Stats">
+</div>
